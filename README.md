@@ -1,4 +1,5 @@
-# Welcome This GitHub Repository
+# Welcome this GitHub Repository
 
-[[Video demo 1]](https://www.youtube.com/watch?v=t5WxAoktEg4&ab_channel=ZhaoHenry)
-
+[[Video demo 1]](https://youtu.be/t5WxAoktEg4)
+[[Video demo 2]](https://youtu.be/S5i4-UpHDvc)
+[[Video demo 3]](https://youtu.be/sMvvxily3xU)
