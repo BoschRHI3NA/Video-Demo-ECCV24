@@ -8,7 +8,7 @@
 
 [[Video demo 4]](https://youtu.be/hHmw39SZxHo) -->
 
-### Rendered RGB, Depth 
+### Rendered RGB, Depth by Liadr-Camera 3D Gaussian Splatting
 
 https://github.com/user-attachments/assets/60fae5d1-e77e-4c8f-8fbe-d7dea0887d3a
 
