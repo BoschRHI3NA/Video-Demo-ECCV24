@@ -18,5 +18,17 @@ https://github.com/user-attachments/assets/6e13fa0f-5499-45d9-b3ee-26d6cd3a6459
 
 https://github.com/user-attachments/assets/423f3404-5b85-4d85-990e-0f9f22edee22
 
+### Rendered RGB and Depth from a Trajectory 0.5 Meters Higher or Lower the Original
+
+https://github.com/user-attachments/assets/e7dae7b2-6979-4dbb-b450-8e1aa6ca0261
+
+https://github.com/user-attachments/assets/11fb4172-534c-49b8-999b-76c4ae71ab0d
+
+https://github.com/user-attachments/assets/fdd5befa-7068-4cfc-be42-2396e7710fd0
+
+https://github.com/user-attachments/assets/84112c7c-15df-446d-822e-0c6b1488667a
+
+
+
 
 
